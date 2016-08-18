@@ -267,7 +267,8 @@ neighborhood_hash = {
             address:"55 Nassau Ave, Brooklyn, NY 11222",
             hours:"11am - 8pm",
             description:"Boutique offering selection of menswear and womenswear from designers, a house label & accessories",
-            website:"https://www.oaknyc.com/"}},
+            website:"https://www.oaknyc.com/",
+          }},
         female:{
           Oak:{
             address:"55 Nassau Ave, Brooklyn, NY 11222",
@@ -305,6 +306,7 @@ neighborhood_hash = {
 
 
 return neighborhood_hash[neighborhood.to_sym][price][gender.downcase.to_sym]
+
 # neighborhood_hash[neighborhood.to_sym][price][gender.downcase.to_sym].each do |store_name, store_details|
 #   store_details.each do |key, value|
 #     return "#{store_name} \n
