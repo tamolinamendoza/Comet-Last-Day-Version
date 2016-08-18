@@ -6,4 +6,11 @@ class ApplicationController < Sinatra::Base
   get '/' do
     erb :index
   end
+
+  post '/stores' do
+    binding.pry
+    erb :index
+  end
+
+
 end
