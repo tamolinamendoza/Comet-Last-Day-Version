@@ -10,7 +10,8 @@ class ApplicationController < Sinatra::Base
 
 get '/personalized' do
   erb :index
-end
+  end
+
 
   post '/personalized' do
     #binding.pry
