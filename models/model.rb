@@ -1,15 +1,10 @@
-<<<<<<< HEAD
-#require "pry"
-=======
-require "pry"
->>>>>>> cb867b148aab3ed3cb8502abc2b1a9d6afc2ee77
+
 # "$" = 1 #budget
 # "$$" = 2 #mid-range
 # "$$$" = 3 #high-end
 # "$$$$" = 4 #very high-end
 
 def stores(neighborhood,price,gender)
-<<<<<<< HEAD
 
 if price == "Budget"
   price = 1
@@ -28,10 +23,6 @@ end
 
 neighborhood_hash = {
   "NoHo":{
-=======
-neighborhood_hash = {
-  noho:{
->>>>>>> cb867b148aab3ed3cb8502abc2b1a9d6afc2ee77
     1=>{male:{},
         female:{}},
     2=>{male:{
@@ -57,11 +48,7 @@ neighborhood_hash = {
         female:{}}
   },
 ##################################################
-<<<<<<< HEAD
   "SoHo":{
-=======
-  soho:{
->>>>>>> cb867b148aab3ed3cb8502abc2b1a9d6afc2ee77
     1=>{male:{},
         female:{}},
     2=>{male:{
@@ -107,11 +94,7 @@ neighborhood_hash = {
             website:"http://www.kirnazabete.com/"}}}
   },
 ##################################################
-<<<<<<< HEAD
   "East Village":{
-=======
-  east_village:{
->>>>>>> cb867b148aab3ed3cb8502abc2b1a9d6afc2ee77
     1=>{male:{},
         female:{}},
     2=>{male:{
@@ -147,11 +130,7 @@ neighborhood_hash = {
         female:{}}
   },
 ##################################################
-<<<<<<< HEAD
   "Upper East Side":{
-=======
-  upper_east_side:{
->>>>>>> cb867b148aab3ed3cb8502abc2b1a9d6afc2ee77
     1=>{male:{},
         female:{}},
     2=>{male:{},
@@ -177,11 +156,7 @@ neighborhood_hash = {
             website:"http://www.fivestoryny.com/"}}}
   },
 ##################################################
-<<<<<<< HEAD
   "Midtown East":{
-=======
-  midtown_east:{
->>>>>>> cb867b148aab3ed3cb8502abc2b1a9d6afc2ee77
     1=>{male:{},
         female:{}},
     2=>{male:{},
@@ -212,11 +187,7 @@ neighborhood_hash = {
             website:"http://newyork.doverstreetmarket.com/"}}}
   },
 ##################################################
-<<<<<<< HEAD
   "West Village":{
-=======
-  west_village:{
->>>>>>> cb867b148aab3ed3cb8502abc2b1a9d6afc2ee77
     1=>{male:{},
         female:{}},
     2=>{male:{},
@@ -232,11 +203,7 @@ neighborhood_hash = {
         female:{}}
   },
 ##################################################
-<<<<<<< HEAD
   "TriBeCa":{
-=======
-  tribeca:{
->>>>>>> cb867b148aab3ed3cb8502abc2b1a9d6afc2ee77
     1=>{male:{},
         female:{}},
     2=>{male:{},
@@ -262,11 +229,7 @@ neighborhood_hash = {
         female:{}}
   },
 ##################################################
-<<<<<<< HEAD
   "Chelsea":{
-=======
-  chelsea:{
->>>>>>> cb867b148aab3ed3cb8502abc2b1a9d6afc2ee77
     1=>{male:{},
         female:{}},
     2=>{male:{
@@ -296,11 +259,7 @@ neighborhood_hash = {
             website:"https://www.jeffreynewyork.com/"}}}
   },
 ##################################################
-<<<<<<< HEAD
   "Brooklyn":{
-=======
-  brooklyn:{
->>>>>>> cb867b148aab3ed3cb8502abc2b1a9d6afc2ee77
     1=>{male:{},
         female:{}},
     2=>{male:{
@@ -342,17 +301,20 @@ neighborhood_hash = {
   }
 }
 
-<<<<<<< HEAD
+
+
 
 return neighborhood_hash[neighborhood.to_sym][price][gender.downcase.to_sym]
+# neighborhood_hash[neighborhood.to_sym][price][gender.downcase.to_sym].each do |store_name, store_details|
+#   store_details.each do |key, value|
+#     return "#{store_name} \n
+# #{key}: #{value}"
+#   end
 end
 
 
 
-=======
-return neighborhood_hash[neighborhood.to_sym][price][gender.to_sym]
-
 end
 
-puts stores("noho",2,"male")
->>>>>>> cb867b148aab3ed3cb8502abc2b1a9d6afc2ee77
+
+

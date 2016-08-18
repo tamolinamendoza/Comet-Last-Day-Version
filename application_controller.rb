@@ -22,6 +22,12 @@ get '/personalized' do
     @preference = stores(@neighborhood, @price, @gender)
    # binding.pry
 
+    @preference.each do |store_name, store_details|
+  store_details.each do |key, value|
+    "#{store_name} #{key}: #{value}"
+  end
+end
+
     erb :page2
   end
 
