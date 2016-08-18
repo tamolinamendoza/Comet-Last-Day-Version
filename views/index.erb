@@ -110,21 +110,29 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
                     <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-                    <form name="sentMessage" id="contactForm" novalidate>
+
+
+  <form method="POST" action='/personalized'>
 
     <div class="form-group">
-      <label class="title" for="exampleSelect1">Neighborhood</label>
-      <select class="form-control" id="exampleSelect1">
+
+      <label class="title" for="exampleSelect1">Neighborhood</label> <!-- may need to change for formatting do not want to mess up the css -->
+
+      <select class="form-control" id="exampleSelect1" name="neighborhood">
         <option>Select a neighborhood</option>
-        <option>Soho</option>
+        <option>SoHo</option>
         <option>West Village</option>
         <option>Upper East Side</option>
-        <option>Noho</option>
+        <option>NoHo</option>
         <option>East Village</option>
+        <option>TriBeCa</option>
+        <option>Midtown East</option>
+        <option>Chelsea</option>
+        <option>Brooklyn</option>
     </select>
     <br>
     <label class="title" for="exampleSelect1">Price range</label>
-    <select class="form-control" id="exampleSelect1">
+    <select class="form-control" id="exampleSelect1" name="price">
         <option>Select a price range</option>
         <option>Budget</option>
         <option>Mid-Range</option>
@@ -133,7 +141,7 @@
     </select>
       <br>
     <label class="title" for="exampleSelect1">Gender</label>
-    <select class="form-control" id="exampleSelect1">
+    <select class="form-control" id="exampleSelect1" name="gender">
         <option>Select a gender to shop for</option>
         <option>Male</option>
         <option>Female</option>
@@ -188,7 +196,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/dover.jpg" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -369,7 +377,7 @@
                         <div class="modal-body">
                             <h2>Project Title</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/circus.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/dover.jpg" class="img-responsive img-centered" alt="">
                             <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
