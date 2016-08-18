@@ -310,7 +310,7 @@ return neighborhood_hash[neighborhood.to_sym][price][gender.downcase.to_sym]
 #     return "#{store_name} \n
 # #{key}: #{value}"
 #   end
-end
+#end
 
 
 
