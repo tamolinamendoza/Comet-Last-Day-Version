@@ -561,15 +561,7 @@ fieldset[disabled] .btn-success.active {
   text-decoration: none;
 }
 
-/*a,*/
-/*a:focus,*/
-/*a:active,*/
-/*a.active {*/
-/*  color: white;*/
-/*  outline: white;*/
-/*  text-decoration: underline;*/
-/*}*/
 
-/*a:hover {*/
-/*  color: #EDB790;*/
-/*}*/
+.portfolio-page2 {
+  margin-top: -140px;
+}

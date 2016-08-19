@@ -329,9 +329,9 @@ neighborhood_hash = {
             website:"N/A"}}},
     4=>{male:{
           Cesare_Attolini:{
-            address:"798 Madison Ave. , New York, NY 10065"
-            hours:"10am - 6pm"
-            description:"Bespoke suits for refined men"
+            address:"798 Madison Ave. , New York, NY 10065",
+            hours:"10am - 6pm",
+            description:"Bespoke suits for refined men",
             website:"http://cesareattolini.com/"}},
         unisex:{
           no_result_yet:{
@@ -437,9 +437,9 @@ neighborhood_hash = {
             website:"No Result...Yet..."}},
         female:{
           Accessorize:{
-            address:"329 Bleecker St., New York, NY 10014"
-            hours:"10am - 8pm"
-            description:"A splashy pint-sized shop packed with practically every wardrobe addition that could be imagined"
+            address:"329 Bleecker St., New York, NY 10014",
+            hours:"10am - 8pm",
+            description:"A splashy pint-sized shop packed with practically every wardrobe addition that could be imagined",
             website:"http://uk.accessorize.com/"}}},
     2=>{male:{
           no_result_yet:{
@@ -455,9 +455,9 @@ neighborhood_hash = {
             website:"No Result...Yet..."}},
         female:{
           Albertine:{
-            address:"13 Christopher St., New York, NY 10014"
-            hours:"11am - 7:30pm"
-            description:"This shop's women's clothing includes designers from New York, Los Angeles, and Miami"
+            address:"13 Christopher St., New York, NY 10014",
+            hours:"11am - 7:30pm",
+            description:"This shop's women's clothing includes designers from New York, Los Angeles, and Miami",
             website:"http://albertine.co/"}}},
     3=>{male:{
           no_result_yet:{
@@ -611,16 +611,16 @@ neighborhood_hash = {
             website:"https://www.openingceremony.com/"}}},
     3=>{male:{
           Atelier:{
-            address:"210 Eleventh Ave., Ste. 1003, New York, NY 10001"
-            hours:"11am - 7pm"
-            description:"High-end shop for avant-garde men's attire creatively displayed in a black-and-white setting"
+            address:"210 Eleventh Ave., Ste. 1003, New York, NY 10001",
+            hours:"11am - 7pm",
+            description:"High-end shop for avant-garde men's attire creatively displayed in a black-and-white setting",
             website:"http://www.ateliernewyork.com/"}},
         unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
             hours:"No Result...Yet...",
             description:"No Result...Yet...",
-            website:"No Result...Yet..."}}
+            website:"No Result...Yet..."}},
         female:{
           no_result_yet:{
             address:"No Result...Yet...",
