@@ -331,7 +331,12 @@ neighborhood_hash = {
             address:"1368 Lexington Ave, New York, NY 10128",
             hours:"10:30am - 6:30pm",
             description:"A 2,500-square-foot boutique packed with well-edited apparel, jewelry, and handbags from high-end designers",
-            website:"N/A"}}},
+            website:"N/A"},
+          Ludivine:{
+            address:"1216 Lexington Ave., New York, NY 10028",
+            hours:"10am - 6:30pm",
+            description:"Ludivine Grégoire, the ex-pat owner, carries a bevy of prized designers for women who favor a refined, romantic Euro-centric style",
+            website:"http://boutiqueludivine.com/"}}},
     4=>{male:{
           "Cesare Attolini":{
             address:"798 Madison Ave. , New York, NY 10065",
@@ -481,7 +486,12 @@ neighborhood_hash = {
             address:"121 Greenwich Ave., New York, NY 10014",
             hours:"11:30am - 7:30pm",
             description:"This bright, girly shop offers downtown looks from designers like Rebecca Taylor, Paul & Joe, and Loeffler Randall",
-            website:"https://otteny.com/en/"}}},
+            website:"https://otteny.com/en/"},
+          Ludivine:{
+            address:"172 W. 4th St., New York, NY 10014",
+            hours:"11am - 7:30pm",
+            description:"Parisian style boutique with contemporary French brands stands out on a bustling West Village street",
+            website:"http://boutiqueludivine.com/"}}},
     4=>{male:{
           no_result_yet:{
             address:"No Result...Yet...",
