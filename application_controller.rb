@@ -1,7 +1,10 @@
 require 'bundler'
 Bundler.require
+require 'dotenv'
+Dotenv.load
 #require_relative 'models/connect.rb' #need to change the model route/ruby file when combining w/ sam's ruby
 require_relative 'models/model.rb'
+
 
 
 class ApplicationController < Sinatra::Base

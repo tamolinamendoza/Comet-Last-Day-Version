@@ -136,7 +136,17 @@
                                     <a class="output_link" target="_blank" href = <%= value %>> <%= value %> </a>
                                   
                                 <% elsif key == :address %>
+                                
+                                    
                                     <a class="output_link" target="_blank" href = <%= "https://www.google.com/maps/place/#{value.gsub(" ", "+")}"%>> <%= value%> </a>
+                                      <br><br>
+                                     <iframe
+                                      width="500"
+                                      height="300"
+                                      frameborder="0" style="border:0"
+                                      src= <%= "https://www.google.com/maps/embed/v1/place?key=#{ENV['GOOGLE_API']}&q=#{value.gsub(" ", "+")}"%> allowfullscreen>
+                                    </iframe>
+                                    <br>
                                   
                                 <% else %>
                                     <%= value %>
@@ -215,11 +225,11 @@
                                     <strong><a href="https://www.saturdaysnyc.com/">saturdaysnyc.com</a>
                                     </strong>
                                 </li>
-                                <li>Character:
-                                    <strong>Hip</strong>
-                                </li>
-                                <li>Location:
+                                <li>Address:
                                     <strong>31 Crosby Street</strong>
+                                </li>
+                                <li>Hours
+                                    <strong>11am - 8pm</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -241,21 +251,21 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>VIFLES</h2>
+                            <h2>VFILES</h2>
                             <br>
                             <img src="img/portfolio/vfiless.jpg" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>Hip, minimalist boutique showcasing edgy streetwear & designer apparel & accessories</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
+                                <li>Website:
+                                    <strong><a href="https://www.vfiles.com/">www.vfiles.com</a>
                                     </strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
+                                <li>Address:
+                                    <strong>12 Mercer St, New York, NY 10013
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
+                                <li>Hours:
+                                    <strong>11am - 7pm
                                     </strong>
                                 </li>
                             </ul>
@@ -281,26 +291,24 @@
                             <h2>Dover Street Market</h2>
                             <br>
                             <img src="img/portfolio/dover.jpg" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>Hip, sprawling showcase of high-end clothing & fashion-forward displays, plus a gourmet cafe</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
+                                <li>Website:
+                                    <strong><a href="www.doverstreetmarket.com/">www.doverstreetmarket.com</a>
                                     </strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
+                                <li>Address:
+                                    <strong>160 Lexington Ave, New York, NY 10016
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
+                                <li>Hours:
+                                    <strong>11am - 7pm
                                     </strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
-                </div>
-            </div>
         </div>
     </div>
     <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
@@ -316,7 +324,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>Project Title</h2>
-                            <hr class="star-primary">
+ 
                             <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
                             <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
@@ -353,7 +361,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>Project Title</h2>
-                            <hr class="star-primary">
+ 
                             <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
                             <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
@@ -390,7 +398,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>Project Title</h2>
-                            <hr class="star-primary">
+ 
                             <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
                             <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
@@ -415,7 +423,7 @@
         </div>
     </div>
 
->>>>>>> 9f5a7c4d6aa5dba61f8203475613f874f124c952
+
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
 

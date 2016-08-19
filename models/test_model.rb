@@ -124,9 +124,14 @@ neighborhood_hash = {
     2=>{male:{
           Opening_Ceremony:{
             address:"35 Howard St., New York, NY 10013",
-            hours:"11pm - 8pm",
+            hours:"11am - 8pm",
             description:"Hip, cosmopolitan unisex clothing store showcasing fashions from abroad plus iconic brands",
-            website:"https://www.openingceremony.com/"}},
+            website:"https://www.openingceremony.com/"},
+          Saturdays_Surf:{
+            address:"31 Crosby St., New York, NY 10013",
+            hours:"8am - 7pm",
+            description:"Goods for the surf lifestyle like clothes, boards and hair products plus a hip coffee bar",
+            website:"https://www.saturdaysnyc.com/"}},
         unisex:{
           Opening_Ceremony:{
             address:"35 Howard St., New York, NY 10013",
@@ -442,11 +447,11 @@ neighborhood_hash = {
             description:"A splashy pint-sized shop packed with practically every wardrobe addition that could be imagined",
             website:"http://uk.accessorize.com/"}}},
     2=>{male:{
-          no_result_yet:{
-            address:"No Result...Yet...",
-            hours:"No Result...Yet...",
-            description:"No Result...Yet...",
-            website:"No Result...Yet..."}},
+          Saturdays_Surf:{
+            address:"17 Perry St, New York, NY 10014",
+            hours:"8am - 7pm",
+            description:"Hip, upscale shop stocking stylish board shorts, surf equipment & shoes, plus an espresso bar",
+            website:"https://www.saturdaysnyc.com/"}},
         unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
