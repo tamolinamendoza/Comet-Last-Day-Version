@@ -534,3 +534,42 @@ fieldset[disabled] .btn-success.active {
   font-family: "Montserrat";
   text-transform: uppercase;
 }
+
+.store_description {
+  font-family: "Montserrat";
+  text-transform: uppercase;
+  font-weight: lighter;
+}
+
+#store_output {
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+.output_text {
+  font-family: "Helvetica Neue";
+}
+
+.output_link {
+  color: white;
+  text-decoration: underline;
+}
+
+.ouput_link:hover {
+  color: #EDB790;
+  text-decoration: none;
+}
+
+/*a,*/
+/*a:focus,*/
+/*a:active,*/
+/*a.active {*/
+/*  color: white;*/
+/*  outline: white;*/
+/*  text-decoration: underline;*/
+/*}*/
+
+/*a:hover {*/
+/*  color: #EDB790;*/
+/*}*/

@@ -18,7 +18,6 @@ get '/personalized' do
     @neighborhood = params[:neighborhood]
     @price = params[:price]
     @gender = params[:gender]
-
     @preference = stores(@neighborhood, @price, @gender)
  
 
