@@ -134,7 +134,9 @@
                                 <div class="output_text">
                                     <% if key == :website %>
                                     <a class="output_link" target="_blank" href = <%= value %>> <%= value %> </a>
-                                  
+                                <% elsif key == :name %>  
+                                   <%= value.gsub("_", " ") %>
+                                
                                 <% elsif key == :address %>
                                 
                                     

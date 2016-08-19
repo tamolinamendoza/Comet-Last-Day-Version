@@ -122,30 +122,30 @@ neighborhood_hash = {
             description:"No Result...Yet...",
             website:"No Result...Yet..."}}},
     2=>{male:{
-          Opening_Ceremony:{
+          "Opening Ceremony":{
             address:"35 Howard St., New York, NY 10013",
             hours:"11am - 8pm",
             description:"Hip, cosmopolitan unisex clothing store showcasing fashions from abroad plus iconic brands",
             website:"https://www.openingceremony.com/"},
-          Saturdays_Surf:{
+          "Saturdays Surf":{
             address:"31 Crosby St., New York, NY 10013",
             hours:"8am - 7pm",
             description:"Goods for the surf lifestyle like clothes, boards and hair products plus a hip coffee bar",
             website:"https://www.saturdaysnyc.com/"}},
         unisex:{
-          Opening_Ceremony:{
+          "Opening Ceremony":{
             address:"35 Howard St., New York, NY 10013",
             hours:"11pm - 8pm",
             description:"Hip, cosmopolitan unisex clothing store showcasing fashions from abroad plus iconic brands",
             website:"https://www.openingceremony.com/"}},
         female:{
-          Opening_Ceremony:{
+          "Opening Ceremony":{
             address:"35 Howard St., New York, NY 10013",
             hours:"11pm - 8pm",
             description:"Hip, cosmopolitan unisex clothing store showcasing fashions from abroad plus iconic brands",
             website:"https://www.openingceremony.com/"}}},
     3=>{male:{
-          What_Goes_Around_Comes_Around:{
+          "What Goes Around Comes Around":{
             address:"351 West Broadway, New York, NY 10013",
             hours:"11pm - 8pm",
             description:"Shop specializing in vintage designer apparel & accessories for men & women, plus line of originals",
@@ -156,7 +156,7 @@ neighborhood_hash = {
             description:"Hip, minimalist boutique showcasing edgy streetwear & designer apparel & accessories",
             website:"https://www.vfiles.com/welcome"}},
         unisex:{
-          What_Goes_Around_Comes_Around:{
+          "What Goes Around Comes Around":{
             address:"351 West Broadway, New York, NY 10013",
             hours:"11pm - 8pm",
             description:"Shop specializing in vintage designer apparel & accessories for men & women, plus line of originals",
@@ -167,7 +167,7 @@ neighborhood_hash = {
             description:"Hip, minimalist boutique showcasing edgy streetwear & designer apparel & accessories",
             website:"https://www.vfiles.com/welcome"}},
         female:{
-          What_Goes_Around_Comes_Around:{
+          "What Goes Around Comes Around":{
             address:"351 West Broadway, New York, NY 10013",
             hours:"11pm - 8pm",
             description:"Shop specializing in vintage designer apparel & accessories for men & women, plus line of originals",
@@ -190,7 +190,7 @@ neighborhood_hash = {
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
         female:{
-          Kirna_Zabete:{
+          "Kirna Zabete":{
             address:"477 Broome St., New York, NY 10013",
             hours:"11pm - 7pm",
             description:"Description",
@@ -217,42 +217,42 @@ neighborhood_hash = {
             description:"No Result...Yet...",
             website:"No Result...Yet..."}}},
     2=>{male:{
-          Flight_Club:{
+           "Flight Club":{
             address:"812 Broadway, New York, NY 10003",
             hours:"12am - 8pm",
             description:"Bustling retail & consignment store for rare & popular sneakers in an airy, polished setting",
             website:"http://www.flightclub.com/"}},
         unisex:{
-          Flight_Club:{
+           "Flight Club":{
             address:"812 Broadway, New York, NY 10003",
             hours:"12am - 8pm",
             description:"Bustling retail & consignment store for rare & popular sneakers in an airy, polished setting",
             website:"http://www.flightclub.com/"}},
         female:{
-          Flight_Club:{
+          "Flight Club":{
             address:"812 Broadway, New York, NY 10003",
             hours:"12am - 8pm",
             description:"Bustling retail & consignment store for rare & popular sneakers in an airy, polished setting",
             website:"http://www.flightclub.com/"}}},
     3=>{male:{
-          Blue_and_Cream:{
+          "Blue and Cream":{
             address:"1 E. 1st St., New York, NY 10003",
             hours:"11pm - 7pm",
             description:"Hip fashion boutique for men & women featuring upscale designer lines & the house brand",
             website:"http://www.blueandcream.com/"}},
         unisex:{
-          Blue_and_Cream:{
+          "Blue and Cream":{
             address:"1 E. 1st St., New York, NY 10003",
             hours:"11pm - 7pm",
             description:"Hip fashion boutique for men & women featuring upscale designer lines & the house brand",
             website:"http://www.blueandcream.com/"}},
         female:{
-          Blue_and_Cream:{
+          "Blue and Cream":{
             address:"1 E. 1st St., New York, NY 10003",
             hours:"11pm - 7pm",
             description:"Hip fashion boutique for men & women featuring upscale designer lines & the house brand",
             website:"http://www.blueandcream.com/"},
-          Pas_de_Deux:{
+          "Pas de Deux":{
             address:"328 E. 11th St., New York, NY 10003",
             hours:"12am - 8pm",
             description:"Women's boutique stocking contemporary designer apparel & accessories in digs with a vintage vibe",
@@ -333,7 +333,7 @@ neighborhood_hash = {
             description:"A 2,500-square-foot boutique packed with well-edited apparel, jewelry, and handbags from high-end designers",
             website:"N/A"}}},
     4=>{male:{
-          Cesare_Attolini:{
+          "Cesare Attolini":{
             address:"798 Madison Ave. , New York, NY 10065",
             hours:"10am - 6pm",
             description:"Bespoke suits for refined men",
@@ -345,7 +345,7 @@ neighborhood_hash = {
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
         female:{
-          Five_Story:{
+          "Five Story":{
             address:"18 E 69th St, New York, NY 10021",
             hours:"10am - 6pm",
             description:"Apparel & accessories from emerging designers, plus decor items, in a luxurious townhouse setting",
@@ -408,19 +408,19 @@ neighborhood_hash = {
             description:"No Result...Yet...",
             website:"No Result...Yet..."}}},
     4=>{male:{
-          Dover_Street_Market:{
+          "Dover Street Market":{
             address:"160 Lexington Ave, New York, NY 10016",
             hours:"11am - 7pm",
             description:"Hip, sprawling showcase of high-end clothing & fashion-forward displays, plus a gourmet cafe",
             website:"http://newyork.doverstreetmarket.com/"}},
         unisex:{
-          Dover_Street_Market:{
+          "Dover Street Market":{
             address:"160 Lexington Ave, New York, NY 10016",
             hours:"11am - 7pm",
             description:"Hip, sprawling showcase of high-end clothing & fashion-forward displays, plus a gourmet cafe",
             website:"http://newyork.doverstreetmarket.com/"}},
         female:{
-          Dover_Street_Market:{
+          "Dover Street Market":{
             address:"160 Lexington Ave, New York, NY 10016",
             hours:"11am - 7pm",
             description:"Hip, sprawling showcase of high-end clothing & fashion-forward displays, plus a gourmet cafe",
@@ -447,7 +447,7 @@ neighborhood_hash = {
             description:"A splashy pint-sized shop packed with practically every wardrobe addition that could be imagined",
             website:"http://uk.accessorize.com/"}}},
     2=>{male:{
-          Saturdays_Surf:{
+          "Saturdays Surf":{
             address:"17 Perry St, New York, NY 10014",
             hours:"8am - 7pm",
             description:"Hip, upscale shop stocking stylish board shorts, surf equipment & shoes, plus an espresso bar",
@@ -540,19 +540,19 @@ neighborhood_hash = {
             description:"This bright, girly shop offers downtown looks from designers like Rebecca Taylor, Paul & Joe, and Loeffler Randall",
             website:"https://otteny.com/en/"}}},
     3=>{male:{
-          Patron_of_the_New:{
+          "Patron of the New":{
             address:"151 Franklin St, New York, NY 10013",
             hours:"12am - 7am",
             description:"Airy, warehouse-chic shop with upscale designer men's & women's clothes, plus shoes & housewares",
             website:"https://patronofthenew.us/"}},
         unisex:{
-          Patron_of_the_New:{
+          "Patron of the New":{
             address:"151 Franklin St, New York, NY 10013",
             hours:"12am - 7am",
             description:"Airy, warehouse-chic shop with upscale designer men's & women's clothes, plus shoes & housewares",
             website:"https://patronofthenew.us/"}},
         female:{
-          Patron_of_the_New:{
+          "Patron of the New":{
             address:"151 Franklin St, New York, NY 10013",
             hours:"12am - 7am",
             description:"Airy, warehouse-chic shop with upscale designer men's & women's clothes, plus shoes & housewares",
@@ -597,19 +597,19 @@ neighborhood_hash = {
             description:"No Result...Yet...",
             website:"No Result...Yet..."}}},
     2=>{male:{
-          Opening_Ceremony:{
+          "Opening Ceremony":{
             address:"1190 Broadway, New York, NY 10001",
             hours:"11pm - 8pm",
             description:"Hip, cosmopolitan unisex clothing store showcasing fashions from abroad plus iconic brands",
             website:"https://www.openingceremony.com/"}},
         unisex:{
-          Opening_Ceremony:{
+          "Opening Ceremony":{
             address:"1190 Broadway, New York, NY 10001",
             hours:"11pm - 8pm",
             description:"Hip, cosmopolitan unisex clothing store showcasing fashions from abroad plus iconic brands",
             website:"https://www.openingceremony.com/"}},
         female:{
-          Opening_Ceremony:{
+          "Opening Ceremony":{
             address:"1190 Broadway, New York, NY 10001",
             hours:"11pm - 8pm",
             description:"Hip, cosmopolitan unisex clothing store showcasing fashions from abroad plus iconic brands",
@@ -689,12 +689,12 @@ neighborhood_hash = {
             hours:"11am - 8pm",
             description:"Boutique offering selection of menswear and womenswear from designers, a house label & accessories",
             website:"https://www.oaknyc.com/"},
-          Bird_location1:{
+          "Bird Location 1":{
             address:"316 Fifth Ave., Brooklyn, NY 11215",
             hours:"11am - 7pm",
             description:"Fashionable store offering hip, upscale apparel & accessories by a range of designers",
             website:"http://shopbird.com/"},
-          Bird_location2:{
+          "Bird Location 2":{
             address:"220 Smith Street Brooklyn, NY 11201",
             hours:"11am - 8pm",
             description:"Cute corner boutique featuring upscale women's apparel, shoes & accessories from modern designers",
