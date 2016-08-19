@@ -689,15 +689,10 @@ neighborhood_hash = {
             hours:"11am - 8pm",
             description:"Boutique offering selection of menswear and womenswear from designers, a house label & accessories",
             website:"https://www.oaknyc.com/"},
-          "Bird Location 1":{
-            address:"316 Fifth Ave., Brooklyn, NY 11215",
+          Bird:{
+            address:"316 Fifth Ave., Brooklyn, NY 11215 | 220 Smith Street Brooklyn, NY 11201",
             hours:"11am - 7pm",
             description:"Fashionable store offering hip, upscale apparel & accessories by a range of designers",
-            website:"http://shopbird.com/"},
-          "Bird Location 2":{
-            address:"220 Smith Street Brooklyn, NY 11201",
-            hours:"11am - 8pm",
-            description:"Cute corner boutique featuring upscale women's apparel, shoes & accessories from modern designers",
             website:"http://shopbird.com/"}}},
     3=>{male:{
           Bird:{
