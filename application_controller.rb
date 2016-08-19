@@ -3,8 +3,13 @@ Bundler.require
 #require_relative 'models/connect.rb' #need to change the model route/ruby file when combining w/ sam's ruby
 require_relative 'models/model.rb'
 
+
 class ApplicationController < Sinatra::Base
   get '/' do
+    erb :index
+  end
+  
+  get '/index' do
     erb :index
   end
 

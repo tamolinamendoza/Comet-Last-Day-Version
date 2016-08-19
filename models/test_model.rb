@@ -88,6 +88,12 @@ neighborhood_hash = {
             hours:"No Result...Yet...",
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
         female:{
           no_result_yet:{
             address:"No Result...Yet...",
@@ -98,6 +104,12 @@ neighborhood_hash = {
 ##################################################
   "SoHo":{
     1=>{male:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
             hours:"No Result...Yet...",
@@ -115,6 +127,12 @@ neighborhood_hash = {
             hours:"11pm - 8pm",
             description:"Hip, cosmopolitan unisex clothing store showcasing fashions from abroad plus iconic brands",
             website:"https://www.openingceremony.com/"}},
+        unisex:{
+          Opening_Ceremony:{
+            address:"35 Howard St., New York, NY 10013",
+            hours:"11pm - 8pm",
+            description:"Hip, cosmopolitan unisex clothing store showcasing fashions from abroad plus iconic brands",
+            website:"https://www.openingceremony.com/"}},
         female:{
           Opening_Ceremony:{
             address:"35 Howard St., New York, NY 10013",
@@ -122,6 +140,17 @@ neighborhood_hash = {
             description:"Hip, cosmopolitan unisex clothing store showcasing fashions from abroad plus iconic brands",
             website:"https://www.openingceremony.com/"}}},
     3=>{male:{
+          What_Goes_Around_Comes_Around:{
+            address:"351 West Broadway, New York, NY 10013",
+            hours:"11pm - 8pm",
+            description:"Shop specializing in vintage designer apparel & accessories for men & women, plus line of originals",
+            website:"http://www.whatgoesaroundnyc.com/"},
+          VFILES:{
+            address:"12 Mercer St, New York, NY 10013",
+            hours:"11am - 7pm",
+            description:"Hip, minimalist boutique showcasing edgy streetwear & designer apparel & accessories",
+            website:"https://www.vfiles.com/welcome"}},
+        unisex:{
           What_Goes_Around_Comes_Around:{
             address:"351 West Broadway, New York, NY 10013",
             hours:"11pm - 8pm",
@@ -149,6 +178,12 @@ neighborhood_hash = {
             hours:"No Result...Yet...",
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
         female:{
           Kirna_Zabete:{
             address:"477 Broome St., New York, NY 10013",
@@ -159,6 +194,12 @@ neighborhood_hash = {
 ##################################################
   "East Village":{
     1=>{male:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
             hours:"No Result...Yet...",
@@ -176,6 +217,12 @@ neighborhood_hash = {
             hours:"12am - 8pm",
             description:"Bustling retail & consignment store for rare & popular sneakers in an airy, polished setting",
             website:"http://www.flightclub.com/"}},
+        unisex:{
+          Flight_Club:{
+            address:"812 Broadway, New York, NY 10003",
+            hours:"12am - 8pm",
+            description:"Bustling retail & consignment store for rare & popular sneakers in an airy, polished setting",
+            website:"http://www.flightclub.com/"}},
         female:{
           Flight_Club:{
             address:"812 Broadway, New York, NY 10003",
@@ -183,6 +230,12 @@ neighborhood_hash = {
             description:"Bustling retail & consignment store for rare & popular sneakers in an airy, polished setting",
             website:"http://www.flightclub.com/"}}},
     3=>{male:{
+          Blue_and_Cream:{
+            address:"1 E. 1st St., New York, NY 10003",
+            hours:"11pm - 7pm",
+            description:"Hip fashion boutique for men & women featuring upscale designer lines & the house brand",
+            website:"http://www.blueandcream.com/"}},
+        unisex:{
           Blue_and_Cream:{
             address:"1 E. 1st St., New York, NY 10003",
             hours:"11pm - 7pm",
@@ -205,6 +258,12 @@ neighborhood_hash = {
             hours:"No Result...Yet...",
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
         female:{
           no_result_yet:{
             address:"No Result...Yet...",
@@ -220,6 +279,12 @@ neighborhood_hash = {
             hours:"No Result...Yet...",
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
         female:{
           no_result_yet:{
             address:"No Result...Yet...",
@@ -227,6 +292,12 @@ neighborhood_hash = {
             description:"No Result...Yet...",
             website:"No Result...Yet..."}}},
     2=>{male:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
             hours:"No Result...Yet...",
@@ -244,6 +315,12 @@ neighborhood_hash = {
             hours:"No Result...Yet...",
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
         female:{
           Edit:{
             address:"1368 Lexington Ave, New York, NY 10128",
@@ -256,6 +333,12 @@ neighborhood_hash = {
             hours:"10am - 6pm"
             description:"Bespoke suits for refined men"
             website:"http://cesareattolini.com/"}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
         female:{
           Five_Story:{
             address:"18 E 69th St, New York, NY 10021",
@@ -266,6 +349,12 @@ neighborhood_hash = {
 ##################################################
   "Midtown East":{
     1=>{male:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
             hours:"No Result...Yet...",
@@ -283,6 +372,12 @@ neighborhood_hash = {
             hours:"No Result...Yet...",
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
         female:{
           no_result_yet:{
             address:"No Result...Yet...",
@@ -290,18 +385,30 @@ neighborhood_hash = {
             description:"No Result...Yet...",
             website:"No Result...Yet..."}}},
     3=>{male:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        female:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}}},
+    4=>{male:{
           Dover_Street_Market:{
             address:"160 Lexington Ave, New York, NY 10016",
             hours:"11am - 7pm",
             description:"Hip, sprawling showcase of high-end clothing & fashion-forward displays, plus a gourmet cafe",
             website:"http://newyork.doverstreetmarket.com/"}},
-        female:{
-          Dover_Street_Market:{
-            address:"160 Lexington Ave, New York, NY 10016",
-            hours:"11am - 7pm",
-            description:"Hip, sprawling showcase of high-end clothing & fashion-forward displays, plus a gourmet cafe",
-            website:"http://newyork.doverstreetmarket.com/"}}},
-    4=>{male:{
+        unisex:{
           Dover_Street_Market:{
             address:"160 Lexington Ave, New York, NY 10016",
             hours:"11am - 7pm",
@@ -322,6 +429,12 @@ neighborhood_hash = {
             hours:"No Result...Yet...",
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
         female:{
           Accessorize:{
             address:"329 Bleecker St., New York, NY 10014"
@@ -329,6 +442,12 @@ neighborhood_hash = {
             description:"A splashy pint-sized shop packed with practically every wardrobe addition that could be imagined"
             website:"http://uk.accessorize.com/"}}},
     2=>{male:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
             hours:"No Result...Yet...",
@@ -346,6 +465,12 @@ neighborhood_hash = {
             hours:"No Result...Yet...",
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
         female:{
           Otte:{
             address:"121 Greenwich Ave., New York, NY 10014",
@@ -353,6 +478,12 @@ neighborhood_hash = {
             description:"This bright, girly shop offers downtown looks from designers like Rebecca Taylor, Paul & Joe, and Loeffler Randall",
             website:"https://otteny.com/en/"}}},
     4=>{male:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
             hours:"No Result...Yet...",
@@ -373,6 +504,12 @@ neighborhood_hash = {
             hours:"No Result...Yet...",
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
         female:{
           no_result_yet:{
             address:"No Result...Yet...",
@@ -380,6 +517,12 @@ neighborhood_hash = {
             description:"No Result...Yet...",
             website:"No Result...Yet..."}}},
     2=>{male:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
             hours:"No Result...Yet...",
@@ -397,6 +540,12 @@ neighborhood_hash = {
             hours:"12am - 7am",
             description:"Airy, warehouse-chic shop with upscale designer men's & women's clothes, plus shoes & housewares",
             website:"https://patronofthenew.us/"}},
+        unisex:{
+          Patron_of_the_New:{
+            address:"151 Franklin St, New York, NY 10013",
+            hours:"12am - 7am",
+            description:"Airy, warehouse-chic shop with upscale designer men's & women's clothes, plus shoes & housewares",
+            website:"https://patronofthenew.us/"}},
         female:{
           Patron_of_the_New:{
             address:"151 Franklin St, New York, NY 10013",
@@ -404,6 +553,12 @@ neighborhood_hash = {
             description:"Airy, warehouse-chic shop with upscale designer men's & women's clothes, plus shoes & housewares",
             website:"https://patronofthenew.us/"}}},
     4=>{male:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
             hours:"No Result...Yet...",
@@ -424,6 +579,12 @@ neighborhood_hash = {
             hours:"No Result...Yet...",
             description:"No Result...Yet...",
             website:"No Result...Yet..."}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
         female:{
           no_result_yet:{
             address:"No Result...Yet...",
@@ -431,6 +592,12 @@ neighborhood_hash = {
             description:"No Result...Yet...",
             website:"No Result...Yet..."}}},
     2=>{male:{
+          Opening_Ceremony:{
+            address:"1190 Broadway, New York, NY 10001",
+            hours:"11pm - 8pm",
+            description:"Hip, cosmopolitan unisex clothing store showcasing fashions from abroad plus iconic brands",
+            website:"https://www.openingceremony.com/"}},
+        unisex:{
           Opening_Ceremony:{
             address:"1190 Broadway, New York, NY 10001",
             hours:"11pm - 8pm",
@@ -448,6 +615,12 @@ neighborhood_hash = {
             hours:"11am - 7pm"
             description:"High-end shop for avant-garde men's attire creatively displayed in a black-and-white setting"
             website:"http://www.ateliernewyork.com/"}},
+        unisex:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}}
         female:{
           no_result_yet:{
             address:"No Result...Yet...",
@@ -458,7 +631,14 @@ neighborhood_hash = {
           Jeffrey:{
             address:"449 W 14th St, New York, NY 10014",
             hours:"Hours",
-            description:"Iconic purveyor of high-end apparel, fragrances, accessories & more (some focus on jewelry)",       website:"https://www.jeffreynewyork.com/"}},
+            description:"Iconic purveyor of high-end apparel, fragrances, accessories & more (some focus on jewelry)",
+            website:"https://www.jeffreynewyork.com/"}},
+        unisex:{
+          Jeffrey:{
+            address:"449 W 14th St, New York, NY 10014",
+            hours:"Hours",
+            description:"Iconic purveyor of high-end apparel, fragrances, accessories & more (some focus on jewelry)",
+            website:"https://www.jeffreynewyork.com/"}},
         female:{
           Jeffrey:{
             address:"449 W 14th St, New York, NY 10014",
@@ -469,6 +649,12 @@ neighborhood_hash = {
 ##################################################
   "Brooklyn":{
     1=>{male:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
             hours:"No Result...Yet...",
@@ -485,8 +671,13 @@ neighborhood_hash = {
             address:"55 Nassau Ave, Brooklyn, NY 11222",
             hours:"11am - 8pm",
             description:"Boutique offering selection of menswear and womenswear from designers, a house label & accessories",
-            website:"https://www.oaknyc.com/",
-          }},
+            website:"https://www.oaknyc.com/"}},
+        unisex:{
+          Oak:{
+            address:"55 Nassau Ave, Brooklyn, NY 11222",
+            hours:"11am - 8pm",
+            description:"Boutique offering selection of menswear and womenswear from designers, a house label & accessories",
+            website:"https://www.oaknyc.com/"}},
         female:{
           Oak:{
             address:"55 Nassau Ave, Brooklyn, NY 11222",
@@ -509,6 +700,12 @@ neighborhood_hash = {
             hours:"11am - 8pm",
             description:"Indie boutique selling modern designer apparel, shoes & jewelry in a green-certified building",
             website:"http://shopbird.com/"}},
+        unisex:{
+          Bird:{
+            address:"203 Grand St., Brooklyn, NY 11211",
+            hours:"11am - 8pm",
+            description:"Indie boutique selling modern designer apparel, shoes & jewelry in a green-certified building",
+            website:"http://shopbird.com/"}},
         female:{
           Bird:{
             address:"203 Grand St., Brooklyn, NY 11211",
@@ -516,6 +713,12 @@ neighborhood_hash = {
             description:"Indie boutique selling modern designer apparel, shoes & jewelry in a green-certified building",
             website:"http://shopbird.com/"}}},
     4=>{male:{
+          no_result_yet:{
+            address:"No Result...Yet...",
+            hours:"No Result...Yet...",
+            description:"No Result...Yet...",
+            website:"No Result...Yet..."}},
+        unisex:{
           no_result_yet:{
             address:"No Result...Yet...",
             hours:"No Result...Yet...",
